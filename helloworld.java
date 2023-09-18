@@ -5,6 +5,7 @@ class setare{
         System.out.println("ESBEN");
 
 Slay queen
+Dunkle Dennis slays
 jahdjashjdhjasdhasjdhasj 
     
         // Test Test
