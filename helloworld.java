@@ -4,7 +4,7 @@ class setare{
         System.out.println("Setare dater en frømand");
         System.out.println("ESBEN");
 
-Sarah er sej
+Slay queen
 jahdjashjdhjasdhasjdhasj 
     
         // Test Test
